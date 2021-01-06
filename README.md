@@ -3,6 +3,8 @@
 ### Author : Calvin Lee
 #### Here is the link to my profile: [Calvin Lee GitHub](https://github.com/calee0316)
 
+Section Link to Basketball section : [Basketball](#basketball)
+
 ## More headers
 ##### More headers
 ###### smallest
@@ -14,6 +16,9 @@
 **bold and _italic_ text**
 
 ***bold and italic***
+
+
+#### Basketball
 
 *I love basketball and my favorite player is Kobe Bryant.* :basketball: :basketball: :basketball:
 

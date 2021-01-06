@@ -41,7 +41,7 @@ git status
 git add
 git commit
 ```
-baseurl: /calee0316.github.io
+
 [Here](calee0316.github.io/_config.yml) is the config file for this repo. 
 
 - [x] Create GitHub page

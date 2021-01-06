@@ -1,8 +1,17 @@
-## Welcome to Calvin Lee's Page
+# Welcome to Calvin Lee's Page
 
 ### Author : Calvin Lee
 #### Here is the link to my profile: [Calvin Lee GitHub](https://github.com/calee0316)
 
+## More headers
+##### More headers
+###### smallest
+
+** bold **
+~~ striken ~~
+** bold and _italic_ text **
+
+*** bold and italic ***
 
 *I love basketball and my favorite player is Kobe Bryant.* :basketball: :basketball: :basketball:
 
@@ -31,7 +40,7 @@ git add
 git commit
 ```
 baseurl: /calee0316.github.io
-[Here](./_config.yml) is the config file for this repo. 
+[Here](/calee0316.github.io/_config.yml) is the config file for this repo. 
 
 - [x] Create GitHub page
 - [x] commit changes

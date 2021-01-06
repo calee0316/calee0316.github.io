@@ -4,7 +4,7 @@
 #### Here is the link to my profile: [Calvin Lee GitHub](https://github.com/calee0316)
 
 
-*I love basketball and my favorite player is Kobe Bryant.*
+*I love basketball and my favorite player is Kobe Bryant.* :basketball: :basketball: :basketball:
 
 In the words of Kobe Bryant: 
 

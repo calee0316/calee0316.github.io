@@ -42,7 +42,7 @@ git add
 git commit
 ```
 
-[Here](calee0316.github.io/_config.yml) is the config file for this repo. 
+[Here](/calee0316.github.io/_config.yml) is the config file for this repo. 
 
 - [x] Create GitHub page
 - [x] commit changes

@@ -6,7 +6,8 @@
 
 *I love basketball and my favorite player is Kobe Bryant.*
 In the words of Kobe Bryant: 
->Everything negative – pressure, challenges – is all an opportunity for me to rise
+> Everything negative – pressure, challenges – is all an opportunity for me to rise
+
 ![Kobe](https://www.gannett-cdn.com/presto/2020/01/26/USAT/048dcaa6-9da8-422f-a57f-2af33fb7ef3e-sw01_reg_4_1202.JPG)
 
 Some other NBA players I like are:

@@ -31,7 +31,7 @@ git add
 git commit
 ```
 
-[Here](./config.yml) is the config file for this repo. 
+[Here](./_config.yml) is the config file for this repo. 
 
-[x] Create GitHub page
-[x] commit changes
+- [x] Create GitHub page
+- [x] commit changes

@@ -28,11 +28,17 @@ Some other NBA players I like are:
 - Devin Booker
 - Kawhi Leonard
 
+
 My Favorite Classes so far were: 
 - Computer Science
   - CSE140L
 - Elective
   - TDGE10
+  
+Here is an ordered list:
+1. one
+2. two
+3. three
   
 
 Some basic Git commands are:

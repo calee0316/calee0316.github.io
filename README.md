@@ -7,11 +7,13 @@
 ##### More headers
 ###### smallest
 
-** bold **
-~~ striken ~~
-** bold and _italic_ text **
+**bold**
 
-*** bold and italic ***
+~~striken~~
+
+**bold and _italic_ text**
+
+***bold and italic***
 
 *I love basketball and my favorite player is Kobe Bryant.* :basketball: :basketball: :basketball:
 
@@ -40,7 +42,7 @@ git add
 git commit
 ```
 baseurl: /calee0316.github.io
-[Here](/calee0316.github.io/_config.yml) is the config file for this repo. 
+[Here](calee0316.github.io/_config.yml) is the config file for this repo. 
 
 - [x] Create GitHub page
 - [x] commit changes

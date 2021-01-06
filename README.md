@@ -1,7 +1,7 @@
 ## Welcome to Calvin Lee's Page
 
-# Author : Calvin Lee
-## Here is the link to my profile: [Calvin Lee GitHub](https://github.com/calee0316)
+### Author : Calvin Lee
+#### Here is the link to my profile: [Calvin Lee GitHub](https://github.com/calee0316)
 
 
 *I love basketball and my favorite player is Kobe Bryant.*

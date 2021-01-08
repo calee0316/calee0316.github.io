@@ -2,6 +2,7 @@
 
 ### Author : Calvin Lee
 #### Here is the link to my profile: [Calvin Lee GitHub](https://github.com/calee0316)
+#### Here is my README for this assignment: [README](./README.md)
 
 Section Link to Basketball section : [Basketball](#basketball)
 
